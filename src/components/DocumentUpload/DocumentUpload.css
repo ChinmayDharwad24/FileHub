@@ -1,0 +1,17 @@
+.document-upload-container {
+    padding: 40px; /* Adjust padding based on your preference */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+  
+  .document-upload-container h2 {
+    margin-bottom: 10px; /* Add margin below the heading */
+  }
+  
+  .document-upload-container input {
+    margin-bottom: 10px; /* Add margin below the input */
+  }
+  
+  
